@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/workspace/data/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/dataSets/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/dataSets/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/dataSets/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/dataSets/commons-collections4-4.1-bin/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/dataSets/commons-collections4-4.1-bin/commons-collections4-4.1/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/dataSets/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/dataSets/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
